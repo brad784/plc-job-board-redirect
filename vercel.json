@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://muse.ai/s/plc-job-board-xaxq6o8xspxi3vo/-CFRV4TSOI4ahv_q3SplgSPBU4LXX-NJkY-Z3gvLqEI",
+      "permanent": false
+    }
+  ]
+}
